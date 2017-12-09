@@ -4,7 +4,7 @@ This Script was made with much love, patience and nerves by:
 
 Patrick Köhler
 
-# eschreibung / Funktionsweise:
+# Beschreibung / Funktionsweise:
 Powershell Script zum automatischen compacten von Hyper-V VHD(x)s ohne Checkpoint.
 Dieses Script prüft automatisch welche virtuellen Maschinen Checkpoints haben, welche maschinen heruntergefahren sind und welche VM's derzeit laufen.
 
